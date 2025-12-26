@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: heroes_task_lib-1.0-SNAPSHOT.jar
+
